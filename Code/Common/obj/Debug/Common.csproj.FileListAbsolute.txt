@@ -1,0 +1,4 @@
+C:\Users\Imagine\Desktop\Code\Common\bin\Debug\Common.dll
+C:\Users\Imagine\Desktop\Code\Common\bin\Debug\Common.pdb
+C:\Users\Imagine\Desktop\Code\Common\obj\Debug\Common.dll
+C:\Users\Imagine\Desktop\Code\Common\obj\Debug\Common.pdb

@@ -1,0 +1,11 @@
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\IBusiness.dll
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\IBusiness.pdb
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\EntityModel.dll
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\IDataDal.dll
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\EntityFramework.dll
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\EntityModel.pdb
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\IDataDal.pdb
+C:\Users\Imagine\Desktop\Code\IBusiness\bin\Debug\EntityFramework.xml
+C:\Users\Imagine\Desktop\Code\IBusiness\obj\Debug\IBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Imagine\Desktop\Code\IBusiness\obj\Debug\IBusiness.dll
+C:\Users\Imagine\Desktop\Code\IBusiness\obj\Debug\IBusiness.pdb

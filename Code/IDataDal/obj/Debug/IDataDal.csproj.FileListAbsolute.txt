@@ -1,0 +1,10 @@
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\IDataDal.dll.config
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\IDataDal.dll
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\IDataDal.pdb
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\EntityFramework.dll
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\EntityModel.dll
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\EntityModel.pdb
+C:\Users\Imagine\Desktop\Code\IDataDal\bin\Debug\EntityFramework.xml
+C:\Users\Imagine\Desktop\Code\IDataDal\obj\Debug\IDataDal.csprojResolveAssemblyReference.cache
+C:\Users\Imagine\Desktop\Code\IDataDal\obj\Debug\IDataDal.dll
+C:\Users\Imagine\Desktop\Code\IDataDal\obj\Debug\IDataDal.pdb

@@ -1,0 +1,14 @@
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\DataDALFactory.dll.config
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\DataDALFactory.dll
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\DataDALFactory.pdb
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\DataDal.dll
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\EntityFramework.dll
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\IDataDal.dll
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\EntityModel.dll
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\DataDal.pdb
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\IDataDal.pdb
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\EntityFramework.xml
+C:\Users\Imagine\Desktop\Code\DataDALFactory\bin\Debug\EntityModel.pdb
+C:\Users\Imagine\Desktop\Code\DataDALFactory\obj\Debug\DataDALFactory.csprojResolveAssemblyReference.cache
+C:\Users\Imagine\Desktop\Code\DataDALFactory\obj\Debug\DataDALFactory.dll
+C:\Users\Imagine\Desktop\Code\DataDALFactory\obj\Debug\DataDALFactory.pdb

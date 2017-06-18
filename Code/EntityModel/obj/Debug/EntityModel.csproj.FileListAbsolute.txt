@@ -1,0 +1,8 @@
+C:\Users\Imagine\Desktop\Code\EntityModel\bin\Debug\EntityModel.dll.config
+C:\Users\Imagine\Desktop\Code\EntityModel\bin\Debug\EntityModel.dll
+C:\Users\Imagine\Desktop\Code\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\Imagine\Desktop\Code\EntityModel\bin\Debug\EntityFramework.dll
+C:\Users\Imagine\Desktop\Code\EntityModel\bin\Debug\EntityFramework.xml
+C:\Users\Imagine\Desktop\Code\EntityModel\obj\Debug\EntityModel.dll
+C:\Users\Imagine\Desktop\Code\EntityModel\obj\Debug\EntityModel.pdb
+C:\Users\Imagine\Desktop\Code\EntityModel\obj\Debug\EntityModel.csprojResolveAssemblyReference.cache
